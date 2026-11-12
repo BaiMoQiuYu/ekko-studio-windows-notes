@@ -1,0 +1,14 @@
+.env
+.env.*
+*.log
+*.pid
+*.db*
+*.sqlite*
+*.zip
+*.pem
+*.pfx
+node_modules/
+runtime/
+studio/
+hermes/
+user-data/
